@@ -11,6 +11,7 @@ namespace Chess
         FigureMoving fm;
         Board board;
 
+
         public Move(Board board)
         {
             this.board = board;
